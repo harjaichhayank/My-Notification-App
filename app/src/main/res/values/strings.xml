@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyNotificationApp</string>
+    <string name="clickmeefornotification">ClickMEeForNotification</string>
+    <string name="landingactivity">LandingActivity</string>
+</resources>
